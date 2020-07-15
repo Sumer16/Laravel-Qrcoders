@@ -1,3 +1,8 @@
+# QRCoders
+
+- ORCorders is a Full Stack application developed using Laravel on Backend & HTML, CSS, JS on the Front-End.
+- It's main purpose is to generate a QR coder & scan it by specific scanner that reads the QR Code & Markers the Student Attendance on daily basis.
+
 # Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
